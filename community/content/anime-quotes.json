@@ -481,47 +481,47 @@
     "character": "Char Aznable"
   },
   {
-  "japanese": "何ッ！？",
-  "romaji": "Nani!?",
-  "english": "What?! (alt wording 19)",
-  "anime": "Fist of the North Star",
-  "character": "Shin"
+    "japanese": "何ッ！？",
+    "romaji": "Nani!?",
+    "english": "What?! (alt wording 19)",
+    "anime": "Fist of the North Star",
+    "character": "Shin"
   },
   {
-  "japanese": "イエス！イエス！イエス！イエス！",
-  "romaji": "Iesu! Iesu! Iesu! Iesu!",
-  "english": "Yes! Yes! Yes! Yes! (alt wording 2) (alt wording 54)",
-  "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
-  "character": "DIO"
+    "japanese": "イエス！イエス！イエス！イエス！",
+    "romaji": "Iesu! Iesu! Iesu! Iesu!",
+    "english": "Yes! Yes! Yes! Yes! (alt wording 2) (alt wording 54)",
+    "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "character": "DIO"
   },
   {
-  "japanese": "レロレロレロレロ",
-  "romaji": "Rero rero rero rero",
-  "english": "Lero lero lero lero. (alt wording 27)",
-  "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
-  "character": "Noriaki Kakyoin"
-},
-{
-  "japanese": "おまえはもう死んでいる",
-  "romaji": "Omae wa mou shindeiru",
-  "english": "You're already dead. (alt wording 18)",
-  "anime": "Fist of the North Star",
-  "character": "Kenshiro"
-},
+    "japanese": "レロレロレロレロ",
+    "romaji": "Rero rero rero rero",
+    "english": "Lero lero lero lero. (alt wording 27)",
+    "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "character": "Noriaki Kakyoin"
+  },
   {
-  "japanese": "おれは人間を超越する！",
-  "romaji": "Ore wa ningen o chouetsu suru!",
-  "english": "I will transcend humanity!",
-  "anime": "JoJo's Bizarre Adventure: Battle Tendency",
-  "character": "Kars"
-}
+    "japanese": "おまえはもう死んでいる",
+    "romaji": "Omae wa mou shindeiru",
+    "english": "You're already dead. (alt wording 18)",
+    "anime": "Fist of the North Star",
+    "character": "Kenshiro"
+  },
   {
-  "japanese": "おれは人間を超越する！",
-  "romaji": "Ore wa ningen o chouetsu suru!",
-  "english": "I will transcend humanity!",
-  "anime": "JoJo's Bizarre Adventure: Battle Tendency",
-  "character": "Kars"
-},
+    "japanese": "おれは人間を超越する！",
+    "romaji": "Ore wa ningen o chouetsu suru!",
+    "english": "I will transcend humanity!",
+    "anime": "JoJo's Bizarre Adventure: Battle Tendency",
+    "character": "Kars"
+  },
+  {
+    "japanese": "おれは人間を超越する！",
+    "romaji": "Ore wa ningen o chouetsu suru!",
+    "english": "I will transcend humanity!",
+    "anime": "JoJo's Bizarre Adventure: Battle Tendency",
+    "character": "Kars"
+  },
   {
     "japanese": "オラに元気を分けてくれ!",
     "romaji": "Ora ni genki o wakete kure!",
@@ -530,10 +530,17 @@
     "character": "Son Goku"
   },
   {
-  "japanese": "やれやれだぜ。",
-  "romaji": "Yare yare da ze.",
-  "english": "Good grief.",
-  "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
-  "character": "Jotaro Kujo"
-}
+    "japanese": "やれやれだぜ。",
+    "romaji": "Yare yare da ze.",
+    "english": "Good grief.",
+    "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "character": "Jotaro Kujo"
+  },
+  {
+    "japanese": "ブチャラティ、来た！",
+    "romaji": "Bucharati, kita!",
+    "english": "Bucciarati is here! (alt wording 17)",
+    "anime": "JoJo's Bizarre Adventure: Golden Wind",
+    "character": "Narancia Ghirga"
+  }
 ]
